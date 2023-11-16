@@ -1,0 +1,11 @@
+.App{
+  max-width: 700px;
+  background-color: white;
+  margin: 50px auto;
+  padding: 30px 50px;
+}✅
+
+.app-heading-top{
+  text-align: center;
+  margin-bottom: 30px;
+}
